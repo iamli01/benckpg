@@ -1,0 +1,15 @@
+node_modules
+dist
+
+# IDE
+.vscode
+.idea
+
+# log
+*.log
+
+# tests
+coverage
+
+# redis
+*.rdb
